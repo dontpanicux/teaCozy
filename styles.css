@@ -7,3 +7,25 @@ body {
 	opacity: 0.9;
 	text-align: center;
 }
+
+nav {
+	height: 69px;
+	width: 100%;
+	border-bottom: 1px solid seashell;
+	position: fixed;
+
+
+}
+
+nav span {
+	margin: 10px;
+	display: inline;
+	text-decoration: underline;
+	margin-bottom: 34.5px;
+}
+
+ .logo {
+	height: 50px;
+	margin: 10px;
+
+}
